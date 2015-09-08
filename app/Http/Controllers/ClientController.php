@@ -42,7 +42,7 @@ class ClientController extends Controller
     {
         return Client::find($id);
     }
-    
+
     /**
      * Update the specified resource in storage.
      *
